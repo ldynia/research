@@ -15,6 +15,7 @@
 - [GitHub Pricing](https://github.com/pricing?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWH85GVDm7rgCnrkns1IROrf9ZwhLbEweZmMcRZmgVZMLIcWl93BxtxoCyMYQAvD_BwE)
 - [GitHub Feature](https://github.com/features?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWDEEqXCoKhYDp1OBlslWyYs-Nz5M0seBhm8S7ETX6TqcFHEjIt7OtBoCNv8QAvD_BwE)
 - [GitHub Compare Features](https://github.com/pricing#compare-features)
+- [A side-by-side comparison of Azure DevOps and GitHub](https://medium.com/microsoftazure/a-side-by-side-comparison-of-azure-devops-and-github-834a223e0c16)
 
 ## Research
 - [predica](https://www.predicagroup.com/blog/azure-devops-github/)
